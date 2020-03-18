@@ -1,0 +1,10 @@
+[
+    {
+        "proxyUrl" : "/getAllUsers",
+        "routeUrl" : "/users/getAllUsers"
+    },
+    {
+        "proxyUrl" : "/getUserInfo",
+        "routeUrl" : "/users/getUserInfo"
+    }
+]
